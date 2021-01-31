@@ -1,0 +1,148 @@
+@media (max-width: 1199px) {
+  .track_1st {
+    order: -1;
+  }
+  .track_2nd {
+    order: -1;
+  }
+  .track_1st_cover {
+    order: -1;
+  }
+}
+@media (max-width: 767px) {
+  .logo {
+    width: 100%;
+    height: auto;
+  }
+  .discograpny-conteiner h2 {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+  .disc_block {
+    margin-top: 50px;
+  }
+  .disc_name {
+    width: 100%;
+    margin: 0;
+    margin-left: 5px;
+  }
+  .disc_description {
+    width: 100%;
+    margin-left: 5px;
+  }
+  .disc_name_2 {
+    width: 100%;
+    margin: 0;
+    margin-left: 5px;
+    margin-top: 50px;
+  }
+  .disc_description_2 {
+    width: 100%;
+    margin-left: 5px;
+    margin-top: 50px;
+  }
+  .disc_name_3 {
+    width: 100%;
+    margin: 0;
+    margin-left: 5px;
+    margin-top: 50px;
+  }
+  .disc_description_3 {
+    width: 100%;
+    margin-left: 5px;
+    margin-top: 50px;
+  }
+  .concert-conteiner h2 {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+  .background_concert {
+    height: auto;
+  }
+  .concert_name {
+    margin-left: 5px;
+    padding-top: 0;
+  }
+  .concert_description {
+    margin-left: 5px;
+  }
+  .but_4 {
+    margin-left: 5px;
+  }
+  .music-block {
+    margin-top: 0;
+  }
+  .latter-conteiner h2 {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+  .track_1st {
+    width: 100%;
+    height: auto;
+  }
+  .track_2nd {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+  }
+  .track_3th {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+  }
+  .track_1st_cover {
+    width: 100%;
+    background-position: center;
+    margin-top: 15px;
+  }
+  .track_2nd_cover {
+    width: 100%;
+    background-position: center;
+    margin-top: 15px;
+  }
+  .track_3th_cover {
+    width: 100%;
+    background-position: center;
+    margin-top: 15px;
+  }
+  .slider_conteiner {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .nuv-btm {
+    padding-top: 100px;
+  }
+  .btn-wrap-prev {
+    padding-left: 100px;
+  }
+  .btn-wrap-next {
+    padding-right: 100px;
+  }
+  .text_song {
+    margin-bottom: 0;
+  }
+  .upcoming_conteiner h2 {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+  .history_conteiner h2 {
+    font-size: 40px;
+  }
+  .contact_conteiner h2 {
+    font-size: 40px;
+    margin-top: 0;
+  }
+  .date h4 {
+    font-size: 25px;
+  }
+  input[type="text"] {
+    width: 200px;
+  }
+  .social {
+    margin-left: 20px;
+    margin-top: 255px;
+  }
+  .btn-wrap-buy {
+    padding-left: 20px;
+  }
+}
